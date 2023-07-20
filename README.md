@@ -20,7 +20,7 @@ As funcionalidades propostas são:
 Acesse este link: https://youtu.be/b4yK2Q0VdjQ
 
 ## Aplicativo na Play Store
-[Play Store - DataPNE](https://play.google.com/apps/internaltest/4701066629246416879')
+[Play Store - DataPNE](https://play.google.com/apps/internaltest/4701066629246416879)
 
 ## Protótipo de Telas
 ![alt text](https://github.com/ingridalmeidas/data-pne/blob/master/entregaveis/prototipo_de_telas.jpg)
