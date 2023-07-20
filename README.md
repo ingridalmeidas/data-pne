@@ -16,6 +16,8 @@ As funcionalidades propostas são:
 - Acompanhamento do índice de alcance da meta das capitais do Brasil
 - Acompanhamento de informações gerais a respeito das capitais do Brasil
 
+Orientador: Rafael Ferreira Mello
+
 ## Apresentação do Aplicativo
 Acesse este link: https://youtu.be/b4yK2Q0VdjQ
 
