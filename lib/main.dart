@@ -11,7 +11,6 @@ void main() async {
 Future<void> _initHive() async {
   await Hive.initFlutter();
   await Hive.openBox("accounts");
-  //Hive.box('accounts').clear();
 }
 
 class MyApp extends StatelessWidget {
